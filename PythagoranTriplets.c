@@ -4,7 +4,7 @@ int main(void)
 {
     int n1, n2, n3;
     int sn1, sn2, sn3;
-
+    
     scanf("%d%d%d", &n1, &n2, &n3);
     sn1 = n1 * n1;
     sn2 = n2 * n2;
